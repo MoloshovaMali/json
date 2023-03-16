@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Honda",
+    "colour": "Black",
+    "type": "SEDAN"
+  },
+  {
+    "name": "BMW",
+    "colour": "Blue",
+    "type": "SPORT"
+  },
+  {
+    "name": "MERSEDES",
+    "colour": "RED",
+    "type": "TRUCK"
+  }
+]
